@@ -31,7 +31,7 @@ Tech Stack: Python, Pandas, Matplotlib.
 
 Repo Link: https://github.com/af-pedro/Dus-Noise-Pollution
 
-###  2. [Project Name]
+###  2. Düsseldorf Noise Pollution Visualization
 Description: This Shiny App provides visualizations of noise pollution data in Düsseldorf.
 
 Tech Stack: R and Shiny
