@@ -49,7 +49,9 @@ Repo Link: https://fonsecapedro.shinyapps.io/Duesseldorf_dashboard/
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=exampleuser&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&bg_color=ffffff&text_color=000000&icon_color=000000&title_color=000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=af-pedro&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=af-pedro&layout=compact&theme=radical)
 
 ## 🏆 GitHub Profile Trophy
 
