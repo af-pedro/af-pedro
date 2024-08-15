@@ -21,7 +21,7 @@ https://www.linkedin.com/in/pedro-fonseca-44b111249/
 pe.fonseca@outlook.com
 
 ## 💼 What I’m Currently Working On
-How Does a Bike Share Navigate Speedy Success: A brief description of what this project is about and the key skills or technologies you're using.
+How Does a Bike Share Navigate Speedy Success: This project will look at how casual cyclists and annual members use Cyclistic bikes differently.
 
 ## 🚀 Key Projects
 ###  1. Dus-Noise-Pollution
