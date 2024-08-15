@@ -29,8 +29,6 @@ Description: This project provides an overview of noise pollution in düsseldorf
 
 Tech Stack: Python, Pandas, Matplotlib.
 
-Highlights: Achievements or results from the project (e.g., "Achieved 95% accuracy in predictive modeling", "Reduced processing time by 30%").
-
 Repo Link: https://github.com/af-pedro/Dus-Noise-Pollution
 
 ###  2. [Project Name]
