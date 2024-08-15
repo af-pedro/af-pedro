@@ -1,15 +1,15 @@
 ## Pedro Fonseca - Data Analyst / Political Scientist 
 
-👋 Welcome to My GitHub Profile!
+👋 ## Welcome to My GitHub Profile!
 I am a Brazilian Political Scientist passionate about data analysis. I currently live in Germany and am looking for new challenges in the field of data analysis and data science.
 
-🔍 About Me
-🎓 Education: M.Sc. in Political Science, Federal University of Pernambuco / Google Data Analytics Professional Certificate
-📊 Skills: Python, R, SQL, Data Visualization, Power BI, Statistics
-📈 Interests: Predictive Modeling, Data Cleaning, A/B Testing, Business Intelligence
-🌍 Location: Germany
-🔗 LinkedIn: https://www.linkedin.com/in/pedro-fonseca-44b111249/
-📧 Email: pe.fonseca@outlook.com
+🔍 ## About Me
+🎓 ## Education: M.Sc. in Political Science, Federal University of Pernambuco / Google Data Analytics Professional Certificate
+📊 ## Skills: Python, R, SQL, Data Visualization, Power BI, Statistics
+📈 ## Interests: Predictive Modeling, Data Cleaning, A/B Testing, Business Intelligence
+🌍 ## Location: Germany
+🔗 ## LinkedIn: https://www.linkedin.com/in/pedro-fonseca-44b111249/
+📧 ## Email: pe.fonseca@outlook.com
 
 💼 What I’m Currently Working On
 [Project 1 Name]: A brief description of what this project is about and the key skills or technologies you're using.
