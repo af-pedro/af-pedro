@@ -44,7 +44,12 @@ Databases: MySQL, PostgreSQL, SQLite
 Version Control: Git, GitHub
 
 ## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=af-pedro&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=af-pedro&layout=compact&theme=radical)
+
+## 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=af-pedro&theme=dracula&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌱 What I’m Learning Next
 Machine Learning: Focusing on deep learning models and neural networks.
