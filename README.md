@@ -6,19 +6,19 @@ I am a political scientist seeking to understand reality through data. My intere
 
 ## 🔍 About Me
 ### 🎓 Education: 
-    M.Sc. in Political Science, Federal University of Pernambuco / Google Data Analytics Professional Certificate
+M.Sc. in Political Science, Federal University of Pernambuco / Google Data Analytics Professional Certificate
     
 ###  📊 Skills: 
 Python, R, SQL, Power BI, Data Visualization, Statistics
 
 ###  📈 Interests: 
-    Predictive Modeling, Data Cleaning, A/B Testing, Business Intelligence
+Predictive Modeling, Data Cleaning, A/B Testing, Business Intelligence
     
 ###  🔗 LinkedIn: 
-    https://www.linkedin.com/in/pedro-fonseca-44b111249/
+https://www.linkedin.com/in/pedro-fonseca-44b111249/
     
 ###  📧 Email: 
-    pe.fonseca@outlook.com
+pe.fonseca@outlook.com
 
 ## 💼 What I’m Currently Working On
 How Does a Bike Share Navigate Speedy Success: A brief description of what this project is about and the key skills or technologies you're using.
@@ -39,11 +39,12 @@ Repo Link: [Link to the repository]
 
 
 ## 🛠️ Tools & Technologies
-![Python Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python
-![SQL Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) SQL
-![Power BI Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg) Power BI
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" />
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL Logo" width="50" />
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="Power BI Logo" width="50" />
 
 ## 📊 My GitHub Stats
+
 
 ## 🌱 What I’m Learning Next
 Machine Learning: Focusing on deep learning models and neural networks.
