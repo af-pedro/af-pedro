@@ -1,17 +1,24 @@
 # Pedro Fonseca - Data Analyst / Political Scientist 
 
 ## 👋 Welcome to My GitHub Profile!
-I am a Brazilian Political Scientist passionate about data analysis. I currently live in Germany and am looking for new challenges in the field of data analysis and data science.
+
+I am a political scientist seeking to understand reality through data. My interest in data analysis began with the socioeconomic analyses I conducted during my undergraduate studies, master's program, and internships. Just as fascinating as analyzing the data is understanding the context in which it is embedded and seeing how reality becomes clearer.
 
 ## 🔍 About Me
 ### 🎓 Education: 
     M.Sc. in Political Science, Federal University of Pernambuco / Google Data Analytics Professional Certificate
+    
 ###  📊 Skills: 
-    Python, R, SQL, Data Visualization, Power BI, Statistics
+    - ![Python Logo](https://camo.githubusercontent.com/55e4079e69ec5d8246620ecff24ed093877ab0f9011e71d8dec0a2c460c886ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465) Python
+- ![SQL Logo](https://camo.githubusercontent.com/5e8f12ef84b82d5e6908729de3a84d27a5f34d4fbb3259d72ae37be04b00b77e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d53514c266c6f676f436f6c6f723d7768697465) SQL
+- ![Power BI Logo](https://camo.githubusercontent.com/2c0b9c62d98a9a576edbc27e26c1a9b0fa9b89b1776e9d5a63c7efb16efc2280/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7765722d626920323032332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d506f7765722d42692032303233) Power BI
+- 
 ###  📈 Interests: 
     Predictive Modeling, Data Cleaning, A/B Testing, Business Intelligence
+    
 ###  🔗 LinkedIn: 
     https://www.linkedin.com/in/pedro-fonseca-44b111249/
+    
 ###  📧 Email: 
     pe.fonseca@outlook.com
 
