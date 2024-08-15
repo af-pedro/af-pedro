@@ -25,9 +25,12 @@ How Does a Bike Share Navigate Speedy Success: A brief description of what this 
 
 ## 🚀 Key Projects
 ###  1. Dus-Noise-Pollution
-Description: This project provides an overview of noise pollution in düsseldorf streets using different visualization technics..
+Description: This project provides an overview of noise pollution in düsseldorf streets using different visualization technics.
+
 Tech Stack: Python, Pandas, Matplotlib.
+
 Highlights: Achievements or results from the project (e.g., "Achieved 95% accuracy in predictive modeling", "Reduced processing time by 30%").
+
 Repo Link: https://github.com/af-pedro/Dus-Noise-Pollution
 
 ###  2. [Project Name]
@@ -53,6 +56,7 @@ Version Control: Git, GitHub
 
 ## 🌱 What I’m Learning Next
 Machine Learning: Focusing on deep learning models and neural networks.
+
 Big Data Technologies: Exploring tools like Hadoop and Spark.
 
 ## 👏 Let's Collaborate!
