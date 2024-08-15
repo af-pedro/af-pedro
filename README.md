@@ -36,15 +36,15 @@ Tech Stack: SQL, Power BI, etc.
 Highlights: Any specific outcomes or challenges you overcame.
 Repo Link: [Link to the repository]
 
-
-
 ## 🛠️ Tools & Technologies
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" />
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL Logo" width="50" />
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="Power BI Logo" width="50" />
+Programming Languages: Python, R, SQL
+Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI, Tableau
+Machine Learning: Scikit-learn, TensorFlow, Keras
+Databases: MySQL, PostgreSQL, SQLite
+Version Control: Git, GitHub
 
 ## 📊 My GitHub Stats
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical)
 
 ## 🌱 What I’m Learning Next
 Machine Learning: Focusing on deep learning models and neural networks.
