@@ -1,18 +1,18 @@
-## Pedro Fonseca - Data Analyst / Political Scientist 
+# Pedro Fonseca - Data Analyst / Political Scientist 
 
 ## 👋 Welcome to My GitHub Profile!
 I am a Brazilian Political Scientist passionate about data analysis. I currently live in Germany and am looking for new challenges in the field of data analysis and data science.
 
 ## 🔍 About Me
-# 🎓 Education: 
+### 🎓 Education: 
     M.Sc. in Political Science, Federal University of Pernambuco / Google Data Analytics Professional Certificate
-# 📊 Skills: 
+###  📊 Skills: 
     Python, R, SQL, Data Visualization, Power BI, Statistics
-# 📈 Interests: 
+###  📈 Interests: 
     Predictive Modeling, Data Cleaning, A/B Testing, Business Intelligence
-# 🔗 LinkedIn: 
+###  🔗 LinkedIn: 
     https://www.linkedin.com/in/pedro-fonseca-44b111249/
-# 📧 Email: 
+###  📧 Email: 
     pe.fonseca@outlook.com
 
 ## 💼 What I’m Currently Working On
@@ -20,13 +20,13 @@ I am a Brazilian Political Scientist passionate about data analysis. I currently
 [Project 2 Name]: Another project description highlighting your involvement and contributions.
 
 ## 🚀 Key Projects
-# 1. Dus-Noise-Pollution
+###  1. Dus-Noise-Pollution
 Description: Briefly describe the project, its purpose, and the technologies used.
 Tech Stack: Python, Pandas, Scikit-learn, Matplotlib, etc.
 Highlights: Achievements or results from the project (e.g., "Achieved 95% accuracy in predictive modeling", "Reduced processing time by 30%").
 Repo Link: [Link to the repository]
 
-# 3. [Project Name]
+###  3. [Project Name]
 Description: Another project with similar details.
 Tech Stack: SQL, Power BI, etc.
 Highlights: Any specific outcomes or challenges you overcame.
