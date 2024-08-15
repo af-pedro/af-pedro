@@ -32,10 +32,11 @@ Tech Stack: Python, Pandas, Matplotlib.
 Repo Link: https://github.com/af-pedro/Dus-Noise-Pollution
 
 ###  2. [Project Name]
-Description: Another project with similar details.
-Tech Stack: SQL, Power BI, etc.
-Highlights: Any specific outcomes or challenges you overcame.
-Repo Link: [Link to the repository]
+Description: This Shiny App provides visualizations of noise pollution data in Düsseldorf.
+
+Tech Stack: R and Shiny
+
+Repo Link: https://fonsecapedro.shinyapps.io/Duesseldorf_dashboard/
 
 ## 🛠️ Tools & Technologies
 🔧 Programming Languages: Python, R, SQL
@@ -48,7 +49,7 @@ Repo Link: [Link to the repository]
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=af-pedro&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&bg_color=ffffff&text_color=000000&icon_color=000000&title_color=000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=exampleuser&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&bg_color=ffffff&text_color=000000&icon_color=000000&title_color=000000)
 
 ## 🏆 GitHub Profile Trophy
 
