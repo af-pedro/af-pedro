@@ -21,7 +21,9 @@ https://www.linkedin.com/in/pedro-fonseca-44b111249/
 pe.fonseca@outlook.com
 
 ## 💼 What I’m Currently Working On
-How Does a Bike Share Navigate Speedy Success: This project will look at how casual cyclists and annual members use Cyclistic bikes differently.
+Analysis of Power Plants in Germany: Provides an in-depth analysis of power plants across Germany. It aims to offer insights into the distribution, capacity, and types of energy sources utilized within these regions.
+
+Repo Link: https://github.com/af-pedro/The-winter-is-coming-Analyzing-the-Power-Plants-in-Germany
 
 ## 🚀 Key Projects
 ###  1. Dus-Noise-Pollution
