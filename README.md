@@ -24,7 +24,9 @@ pe.fonseca@outlook.com
 **Churn Analysis for a Subscription Services Company**
 
 = Goal: Identify the main reasons for subscription cancellations and predict which customers are at highest risk of churn.
+
 = Question: What factors lead customers to cancel their subscriptions, and how can we predict these cancellations?
+
 = Tools: Python (Pandas, Scikit-learn, Matplotlib, Seaborn), SQL for data query, Power BI or Tableau for visualization.
 
 ## 🚀 Key Projects
