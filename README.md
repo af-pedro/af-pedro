@@ -55,7 +55,7 @@ Repo Link: https://fonsecapedro.shinyapps.io/Duesseldorf_dashboard/
 ## 🛠️ Tools & Technologies
 🔧 Programming Languages: Python, R, SQL
 
-📈 Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI, Tableau
+📈 Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tidyverse, Power BI
 
 📦 Databases: MySQL, PostgreSQL, SQLite
 
