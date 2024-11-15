@@ -21,19 +21,29 @@ https://www.linkedin.com/in/pedro-fonseca-44b111249/
 pe.fonseca@outlook.com
 
 ## 💼 What I’m Currently Working On
-Analysis of Power Plants in Germany: Provides an in-depth analysis of power plants across Germany. It aims to offer insights into the distribution, capacity, and types of energy sources utilized within these regions.
+**Churn Analysis for a Subscription Services Company**
+
+= Goal: Identify the main reasons for subscription cancellations and predict which customers are at highest risk of churn.
+= Question: What factors lead customers to cancel their subscriptions, and how can we predict these cancellations?
+= Tools: Python (Pandas, Scikit-learn, Matplotlib, Seaborn), SQL for data query, Power BI or Tableau for visualization.
+
+## 🚀 Key Projects
+###  1. Analysis of Power Plants in Germany: 
+
+Provides an in-depth analysis of power plants across Germany. It aims to offer insights into the distribution, capacity, and types of energy sources utilized within these regions.
+
+Tech Stack: Python, Pandas, Matplotlib.
 
 Repo Link: https://github.com/af-pedro/The-winter-is-coming-Analyzing-the-Power-Plants-in-Germany
 
-## 🚀 Key Projects
-###  1. Dus-Noise-Pollution
+### 2. Dus-Noise-Pollution
 Description: This project provides an overview of noise pollution in düsseldorf streets using different visualization technics.
 
 Tech Stack: Python, Pandas, Matplotlib.
 
 Repo Link: https://github.com/af-pedro/Dus-Noise-Pollution
 
-###  2. Düsseldorf Noise Pollution Visualization
+###  3. Düsseldorf Noise Pollution Visualization
 Description: This Shiny App provides visualizations of noise pollution data in Düsseldorf.
 
 Tech Stack: R and Shiny
